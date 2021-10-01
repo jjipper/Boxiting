@@ -1,3 +1,3 @@
-# Git + Cat
+# Boxing + Cat
 
-코딩 고양이
+복싱하는 고양이
